@@ -244,7 +244,7 @@ def main():
     # Configuration
     dataset = 'KUL'
     time_len = 1
-    subjects = ['S1', 'S2', 'S3', 'S4']  # Adjust as needed
+    subjects = ['S1', 'S2', 'S3']  # Adjust as needed
 
     # Store results
     all_results = {
